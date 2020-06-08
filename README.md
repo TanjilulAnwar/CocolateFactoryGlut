@@ -1,3 +1,5 @@
 # CocolateFactoryGlut
 Glut with C++ demonstration production of chocolate bars
-![alt text](https://github.com/TanjilulAnwar/CocolateFactoryGlut/demo.gif?raw=true)
+
+
+![alt text](https://github.com/TanjilulAnwar/CocolateFactoryGlut/demo.gif)
